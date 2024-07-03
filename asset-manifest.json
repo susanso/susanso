@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/susanso/static/css/main.f855e6bc.css",
-    "main.js": "/susanso/static/js/main.e4784103.js",
+    "main.css": "/susanso/static/css/main.25c1849c.css",
+    "main.js": "/susanso/static/js/main.85d9a78b.js",
     "static/js/453.f957a195.chunk.js": "/susanso/static/js/453.f957a195.chunk.js",
-    "static/media/logo.svg": "/susanso/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Happiness-Sans-Title.woff": "/susanso/static/media/Happiness-Sans-Title.e5ffa3ec94963c4558e7.woff",
+    "static/media/Happiness-Sans-Bold.woff": "/susanso/static/media/Happiness-Sans-Bold.73330f03dc2ec2f8b707.woff",
+    "static/media/Happiness-Sans-Regular.woff": "/susanso/static/media/Happiness-Sans-Regular.b298fb57ece07654a647.woff",
     "index.html": "/susanso/index.html",
-    "main.f855e6bc.css.map": "/susanso/static/css/main.f855e6bc.css.map",
-    "main.e4784103.js.map": "/susanso/static/js/main.e4784103.js.map",
+    "main.25c1849c.css.map": "/susanso/static/css/main.25c1849c.css.map",
+    "main.85d9a78b.js.map": "/susanso/static/js/main.85d9a78b.js.map",
     "453.f957a195.chunk.js.map": "/susanso/static/js/453.f957a195.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.e4784103.js"
+    "static/css/main.25c1849c.css",
+    "static/js/main.85d9a78b.js"
   ]
 }
