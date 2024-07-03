@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/susanso/static/css/main.f855e6bc.css",
-    "main.js": "/susanso/static/js/main.c6fe1d22.js",
+    "main.js": "/susanso/static/js/main.e4784103.js",
     "static/js/453.f957a195.chunk.js": "/susanso/static/js/453.f957a195.chunk.js",
     "static/media/logo.svg": "/susanso/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/susanso/index.html",
     "main.f855e6bc.css.map": "/susanso/static/css/main.f855e6bc.css.map",
-    "main.c6fe1d22.js.map": "/susanso/static/js/main.c6fe1d22.js.map",
+    "main.e4784103.js.map": "/susanso/static/js/main.e4784103.js.map",
     "453.f957a195.chunk.js.map": "/susanso/static/js/453.f957a195.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c6fe1d22.js"
+    "static/js/main.e4784103.js"
   ]
 }
